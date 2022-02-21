@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\bin\Debug\netcoreapp3.1\1. Сортиране на часове.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Сортиране на часове\obj\Debug\netcoreapp3.1\1. Сортиране на часове.genruntimeconfig.cache

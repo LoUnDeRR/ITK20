@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\bin\Debug\netcoreapp3.1\4. Сгъни и събери.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Сгъни и събери\obj\Debug\netcoreapp3.1\4. Сгъни и събери.genruntimeconfig.cache

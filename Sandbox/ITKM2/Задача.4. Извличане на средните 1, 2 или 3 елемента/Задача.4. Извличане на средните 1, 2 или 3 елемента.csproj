@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Задача._4._Извличане_на_средните_1__2_или_3_елемента</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\bin\Debug\netcoreapp3.1\Задача.1. Обработка на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.1. Обработка на масив\obj\Debug\netcoreapp3.1\Задача.1. Обработка на масив.csprojAssemblyReference.cache

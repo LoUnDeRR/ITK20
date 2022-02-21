@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\bin\Debug\netcoreapp3.1\Presentations HW testing.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Presentations HW testing\obj\Debug\netcoreapp3.1\Presentations HW testing.csprojAssemblyReference.cache

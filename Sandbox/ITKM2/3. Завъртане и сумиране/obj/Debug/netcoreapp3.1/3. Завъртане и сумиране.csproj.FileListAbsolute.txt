@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\bin\Debug\netcoreapp3.1\3. Завъртане и сумиране.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Завъртане и сумиране\obj\Debug\netcoreapp3.1\3. Завъртане и сумиране.genruntimeconfig.cache

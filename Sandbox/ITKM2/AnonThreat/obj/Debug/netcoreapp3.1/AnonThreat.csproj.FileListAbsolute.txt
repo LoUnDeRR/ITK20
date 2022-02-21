@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\bin\Debug\netcoreapp3.1\AnonThreat.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreat\obj\Debug\netcoreapp3.1\AnonThreat.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\bin\Debug\netcoreapp3.1\IcarusOptim.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\HW01\obj\Debug\netcoreapp3.1\IcarusOptim.csprojAssemblyReference.cache

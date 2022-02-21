@@ -1,0 +1,16 @@
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.exe
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.deps.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.runtimeconfig.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.runtimeconfig.dev.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\ref\Exam Problem School-Student2.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\bin\Debug\net5.0\Exam Problem School-Student2.pdb
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.csproj.AssemblyReference.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.AssemblyInfoInputs.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.AssemblyInfo.cs
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\ref\Exam Problem School-Student2.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.pdb
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student2\obj\Debug\net5.0\Exam Problem School-Student2.genruntimeconfig.cache

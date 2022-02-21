@@ -1,0 +1,12 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\bin\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4. Anonymous Cache\obj\Debug\netcoreapp3.1\Problem 4. Anonymous Cache.genruntimeconfig.cache

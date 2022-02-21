@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\bin\Debug\netcoreapp3.1\AnonThreatMerge.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatMerge\obj\Debug\netcoreapp3.1\AnonThreatMerge.csprojAssemblyReference.cache

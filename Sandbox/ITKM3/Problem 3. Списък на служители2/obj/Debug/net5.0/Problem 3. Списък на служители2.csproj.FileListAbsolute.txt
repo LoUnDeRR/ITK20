@@ -1,0 +1,16 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\ref\Problem 3. Списък на служители2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\bin\Debug\net5.0\Problem 3. Списък на служители2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\ref\Problem 3. Списък на служители2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители2\obj\Debug\net5.0\Problem 3. Списък на служители2.genruntimeconfig.cache

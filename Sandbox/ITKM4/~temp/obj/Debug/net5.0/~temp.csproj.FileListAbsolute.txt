@@ -1,0 +1,16 @@
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.exe
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.deps.json
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.runtimeconfig.json
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.runtimeconfig.dev.json
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.dll
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\ref\~temp.dll
+D:\Visual Studio Source\ITKM4\~temp\bin\Debug\net5.0\~temp.pdb
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.csproj.AssemblyReference.cache
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.AssemblyInfoInputs.cache
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.AssemblyInfo.cs
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.dll
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\ref\~temp.dll
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.pdb
+D:\Visual Studio Source\ITKM4\~temp\obj\Debug\net5.0\~temp.genruntimeconfig.cache

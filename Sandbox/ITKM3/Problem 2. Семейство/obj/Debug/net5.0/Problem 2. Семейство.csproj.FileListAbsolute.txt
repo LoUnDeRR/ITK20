@@ -1,0 +1,16 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\ref\Problem 2. Семейство.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\bin\Debug\net5.0\Problem 2. Семейство.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\ref\Problem 2. Семейство.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Семейство\obj\Debug\net5.0\Problem 2. Семейство.genruntimeconfig.cache

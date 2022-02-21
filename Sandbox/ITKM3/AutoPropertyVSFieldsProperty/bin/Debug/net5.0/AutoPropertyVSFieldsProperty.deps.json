@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AutoPropertyVSFieldsProperty/1.0.0": {
+        "runtime": {
+          "AutoPropertyVSFieldsProperty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoPropertyVSFieldsProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

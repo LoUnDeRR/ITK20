@@ -1,0 +1,16 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\ref\Problem 3. Списък на служители.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\bin\Debug\net5.0\Problem 3. Списък на служители.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\ref\Problem 3. Списък на служители.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Списък на служители\obj\Debug\net5.0\Problem 3. Списък на служители.csprojAssemblyReference.cache

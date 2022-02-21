@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\bin\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Обръщане на последователността на елементите на масив\obj\Debug\netcoreapp3.1\1. Обръщане на последователността на елементите на масив.csprojAssemblyReference.cache

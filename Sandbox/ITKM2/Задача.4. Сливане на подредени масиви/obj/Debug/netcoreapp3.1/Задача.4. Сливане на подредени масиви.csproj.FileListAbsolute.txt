@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\bin\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.4. Сливане на подредени масиви\obj\Debug\netcoreapp3.1\Задача.4. Сливане на подредени масиви.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\bin\Debug\netcoreapp3.1\Problem 4 – RainAir.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 4 – RainAir\obj\Debug\netcoreapp3.1\Problem 4 – RainAir.genruntimeconfig.cache

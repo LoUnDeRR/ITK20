@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\bin\Debug\netcoreapp3.1\AnonThreatDivideSimple2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\AnonThreatDivideSimple2\obj\Debug\netcoreapp3.1\AnonThreatDivideSimple2.genruntimeconfig.cache

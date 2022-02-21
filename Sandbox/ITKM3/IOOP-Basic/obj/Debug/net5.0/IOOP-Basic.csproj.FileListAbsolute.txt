@@ -1,0 +1,15 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\ref\IOOP-Basic.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\bin\Debug\net5.0\IOOP-Basic.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\ref\IOOP-Basic.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\IOOP-Basic\obj\Debug\net5.0\IOOP-Basic.genruntimeconfig.cache

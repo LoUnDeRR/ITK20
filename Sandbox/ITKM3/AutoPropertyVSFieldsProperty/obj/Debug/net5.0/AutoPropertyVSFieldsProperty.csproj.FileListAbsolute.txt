@@ -1,0 +1,16 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\ref\AutoPropertyVSFieldsProperty.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\bin\Debug\net5.0\AutoPropertyVSFieldsProperty.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\ref\AutoPropertyVSFieldsProperty.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\AutoPropertyVSFieldsProperty\obj\Debug\net5.0\AutoPropertyVSFieldsProperty.csprojAssemblyReference.cache

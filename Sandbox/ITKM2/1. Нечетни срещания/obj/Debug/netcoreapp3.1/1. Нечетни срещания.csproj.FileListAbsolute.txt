@@ -1,0 +1,12 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\bin\Debug\netcoreapp3.1\1. Нечетни срещания.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\1. Нечетни срещания\obj\Debug\netcoreapp3.1\1. Нечетни срещания.genruntimeconfig.cache

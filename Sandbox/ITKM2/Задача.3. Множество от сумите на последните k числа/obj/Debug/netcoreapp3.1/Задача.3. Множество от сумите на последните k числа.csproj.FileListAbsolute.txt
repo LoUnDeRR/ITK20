@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\bin\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.3. Множество от сумите на последните k числа\obj\Debug\netcoreapp3.1\Задача.3. Множество от сумите на последните k числа.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.exe
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.deps.json
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.runtimeconfig.json
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.runtimeconfig.dev.json
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.dll
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\ref\Problem People LinkedList.dll
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\bin\Debug\net5.0\Problem People LinkedList.pdb
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.csproj.AssemblyReference.cache
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.AssemblyInfoInputs.cache
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.AssemblyInfo.cs
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.csproj.CoreCompileInputs.cache
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.dll
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\ref\Problem People LinkedList.dll
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.pdb
+D:\Visual Studio Source\ITKM4\Problem People LinkedList\obj\Debug\net5.0\Problem People LinkedList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\bin\Debug\netcoreapp3.1\Преобразуване на масив в число.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Преобразуване на масив в число\obj\Debug\netcoreapp3.1\Преобразуване на масив в число.genruntimeconfig.cache

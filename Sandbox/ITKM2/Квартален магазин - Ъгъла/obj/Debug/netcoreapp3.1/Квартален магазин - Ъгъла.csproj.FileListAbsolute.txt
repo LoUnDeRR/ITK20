@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\bin\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Квартален магазин - Ъгъла\obj\Debug\netcoreapp3.1\Квартален магазин - Ъгъла.genruntimeconfig.cache

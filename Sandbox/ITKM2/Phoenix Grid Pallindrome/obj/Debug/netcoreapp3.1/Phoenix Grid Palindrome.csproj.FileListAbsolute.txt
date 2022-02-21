@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\bin\Debug\netcoreapp3.1\Phoenix Grid Palindrome.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid Pallindrome\obj\Debug\netcoreapp3.1\Phoenix Grid Palindrome.csprojAssemblyReference.cache

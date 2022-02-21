@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\bin\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Задача.2. Безопасна обработка на масив\obj\Debug\netcoreapp3.1\Задача.2. Безопасна обработка на масив.csprojAssemblyReference.cache

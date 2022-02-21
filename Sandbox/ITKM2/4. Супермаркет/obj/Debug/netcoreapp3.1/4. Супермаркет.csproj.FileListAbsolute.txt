@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\bin\Debug\netcoreapp3.1\4. Супермаркет.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\4. Супермаркет\obj\Debug\netcoreapp3.1\4. Супермаркет.csprojAssemblyReference.cache

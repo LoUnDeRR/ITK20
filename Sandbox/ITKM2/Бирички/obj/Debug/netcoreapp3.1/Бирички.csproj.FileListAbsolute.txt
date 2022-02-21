@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\bin\Debug\netcoreapp3.1\Бирички.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Бирички\obj\Debug\netcoreapp3.1\Бирички.csprojAssemblyReference.cache

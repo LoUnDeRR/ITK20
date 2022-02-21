@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Задача._3._Множество_от_сумите_на_последните_k_числа</RootNamespace>
+  </PropertyGroup>
+
+</Project>

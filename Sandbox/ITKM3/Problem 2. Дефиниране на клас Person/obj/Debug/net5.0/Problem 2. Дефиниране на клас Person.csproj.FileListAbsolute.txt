@@ -1,0 +1,15 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\ref\Problem 2. Дефиниране на клас Person.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\bin\Debug\net5.0\Problem 2. Дефиниране на клас Person.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\ref\Problem 2. Дефиниране на клас Person.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 2. Дефиниране на клас Person\obj\Debug\net5.0\Problem 2. Дефиниране на клас Person.genruntimeconfig.cache

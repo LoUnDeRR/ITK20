@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\bin\Debug\netcoreapp3.1\Phoenix Grid 2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Phoenix Grid 2\obj\Debug\netcoreapp3.1\Phoenix Grid 2.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\LoUnDeR-PC\Desktop\~temp.exe
+C:\Users\LoUnDeR-PC\Desktop\~temp.dll
+C:\Users\LoUnDeR-PC\Desktop\~temp.deps.json
+C:\Users\LoUnDeR-PC\Desktop\~temp.runtimeconfig.json
+C:\Users\LoUnDeR-PC\Desktop\~temp.pdb

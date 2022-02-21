@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\bin\Debug\netcoreapp3.1\3. Сортиране на кратки думи.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\3. Сортиране на кратки думи\obj\Debug\netcoreapp3.1\3. Сортиране на кратки думи.genruntimeconfig.cache

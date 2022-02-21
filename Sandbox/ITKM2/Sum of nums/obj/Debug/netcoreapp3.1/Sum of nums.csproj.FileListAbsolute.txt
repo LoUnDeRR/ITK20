@@ -1,0 +1,12 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\bin\Debug\netcoreapp3.1\Sum of nums.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Sum of nums\obj\Debug\netcoreapp3.1\Sum of nums.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1._Обръщане_на_последователността_на_елементите_на_масив</RootNamespace>
+  </PropertyGroup>
+
+</Project>

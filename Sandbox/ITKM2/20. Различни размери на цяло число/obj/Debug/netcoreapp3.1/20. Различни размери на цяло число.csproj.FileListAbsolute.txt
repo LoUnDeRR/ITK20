@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\bin\Debug\netcoreapp3.1\20. Различни размери на цяло число.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\20. Различни размери на цяло число\obj\Debug\netcoreapp3.1\20. Различни размери на цяло число.csprojAssemblyReference.cache

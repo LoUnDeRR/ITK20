@@ -1,0 +1,15 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\ref\Problem 3. Статистика.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\bin\Debug\net5.0\Problem 3. Статистика.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\ref\Problem 3. Статистика.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Problem 3. Статистика\obj\Debug\net5.0\Problem 3. Статистика.genruntimeconfig.cache

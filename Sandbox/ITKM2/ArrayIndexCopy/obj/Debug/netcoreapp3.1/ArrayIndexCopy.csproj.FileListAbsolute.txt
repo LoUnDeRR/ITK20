@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\bin\Debug\netcoreapp3.1\ArrayIndexCopy.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\ArrayIndexCopy\obj\Debug\netcoreapp3.1\ArrayIndexCopy.genruntimeconfig.cache

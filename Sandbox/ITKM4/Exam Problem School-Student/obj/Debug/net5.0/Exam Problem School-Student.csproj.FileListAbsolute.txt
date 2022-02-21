@@ -1,0 +1,16 @@
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.csproj.AssemblyReference.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.AssemblyInfoInputs.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.AssemblyInfo.cs
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.csproj.CoreCompileInputs.cache
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.exe
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.deps.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.runtimeconfig.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.runtimeconfig.dev.json
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\ref\Exam Problem School-Student.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\bin\Debug\net5.0\Exam Problem School-Student.pdb
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\ref\Exam Problem School-Student.dll
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.pdb
+D:\Visual Studio Source\ITKM4\Exam Problem School-Student\obj\Debug\net5.0\Exam Problem School-Student.genruntimeconfig.cache

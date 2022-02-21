@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Задача._2._Безопасна_обработка_на_масив</RootNamespace>
+  </PropertyGroup>
+
+</Project>

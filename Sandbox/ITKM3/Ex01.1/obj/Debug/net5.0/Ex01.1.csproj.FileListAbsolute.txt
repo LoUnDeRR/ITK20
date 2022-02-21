@@ -1,0 +1,16 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\ref\Ex01.1.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\bin\Debug\net5.0\Ex01.1.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\ref\Ex01.1.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM3\Ex01.1\obj\Debug\net5.0\Ex01.1.genruntimeconfig.cache

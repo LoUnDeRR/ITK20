@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\bin\Debug\netcoreapp3.1\FromDec.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\FromDec\obj\Debug\netcoreapp3.1\FromDec.genruntimeconfig.cache

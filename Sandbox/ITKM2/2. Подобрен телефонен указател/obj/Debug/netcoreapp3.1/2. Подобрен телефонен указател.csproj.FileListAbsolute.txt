@@ -1,0 +1,12 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\bin\Debug\netcoreapp3.1\2. Подобрен телефонен указател.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\2. Подобрен телефонен указател\obj\Debug\netcoreapp3.1\2. Подобрен телефонен указател.genruntimeconfig.cache

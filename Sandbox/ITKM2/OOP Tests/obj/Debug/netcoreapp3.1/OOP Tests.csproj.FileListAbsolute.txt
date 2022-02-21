@@ -1,0 +1,12 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\bin\Debug\netcoreapp3.1\OOP Tests.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\OOP Tests\obj\Debug\netcoreapp3.1\OOP Tests.genruntimeconfig.cache

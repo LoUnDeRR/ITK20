@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\bin\Release\netcoreapp3.1\~temp.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\temp2\obj\Release\netcoreapp3.1\~temp.genruntimeconfig.cache

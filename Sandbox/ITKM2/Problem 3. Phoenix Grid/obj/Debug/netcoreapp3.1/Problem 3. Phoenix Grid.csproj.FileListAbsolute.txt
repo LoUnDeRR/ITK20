@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\bin\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.csprojAssemblyReference.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Phoenix Grid\obj\Debug\netcoreapp3.1\Problem 3. Phoenix Grid.genruntimeconfig.cache

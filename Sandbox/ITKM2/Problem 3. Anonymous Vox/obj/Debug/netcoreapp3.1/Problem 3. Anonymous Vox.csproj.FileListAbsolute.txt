@@ -1,0 +1,13 @@
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.AssemblyInfoInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.AssemblyInfo.cs
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.csproj.CoreCompileInputs.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.exe
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.deps.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.runtimeconfig.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.runtimeconfig.dev.json
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\bin\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.dll
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.pdb
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.genruntimeconfig.cache
+C:\Users\LoUnDeR-PC\source\repos\ITKM2\Problem 3. Anonymous Vox\obj\Debug\netcoreapp3.1\Problem 3. Anonymous Vox.csprojAssemblyReference.cache
